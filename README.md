@@ -125,16 +125,4 @@ auto_teacher/
    - Informative colored console output
    - Graceful failure handling
 
-## Contributing 🤝
 
-Feel free to submit issues and enhancement requests!
-
-## License 📄
-
-[Your chosen license]
-
-## Acknowledgments 🙏
-
-- OpenAI for AI models
-- DaisyUI for UI components
-- Anime.js for animations
