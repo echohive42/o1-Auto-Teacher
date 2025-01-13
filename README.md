@@ -1,6 +1,6 @@
 # o1 Auto Teacher 🎓
 
-An interactive AI-powered learning experience generator that creates comprehensive, multimedia educational content on any topic.
+An interactive AI-powered learning experience generator that creates easy adn simple, multimedia educational content on any topic.
 
 ## Features ✨
 
