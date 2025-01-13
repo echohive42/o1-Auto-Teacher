@@ -20,7 +20,7 @@ Dive deep into the development process with:
 - 🎯 Step-by-step video walkthrough of the entire build
 - 💡 Expert insights and best practices
 
-Plus, get access to our exclusive **30-Chapter Cursor Mastery Course**:
+Plus, get access to my exclusive **30-Chapter Cursor Mastery Course**:
 
 - 📚 20+ hours of hands-on content
 - 🛠️ Build full applications from scratch in each chapter
